@@ -1,0 +1,21 @@
+Theme:
+MediterraneanDark
+Panelcolor:
+#2B3640
+Default wallpaper:
+Squam_Lake.png
+Additional wallpapers:
+Squam_Lake-bW.jpg
+Squam_Lake-Dark.jpg
+Icons:
+Faenza-Cupertino
+Lightdm theme:
+MediterraneanDarkest
+Lightdm background:
+login.jpg
+GRUB background:
+Squam_Lake-grub.png
+Live bootloader:
+back640.jpg
+back800.jpg
+back1024.jpg

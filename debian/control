@@ -1,0 +1,18 @@
+Source: mx15-artwork
+Section: unknown
+Priority: extra
+Maintainer: Kent Mathern <maintainer@mepiscommunity.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: mx15-artwork
+Architecture: all
+Depends: ${misc:Depends}
+Description: Default wallpaper, grub and lightdm backgrounds for MX15
+ .
+
+Package: mx15-artwork-extras
+Architecture: all
+Depends: ${misc:Depends}
+Description: Extra artwork for MX15, wallpapers and syslinux backgrounds
+ .

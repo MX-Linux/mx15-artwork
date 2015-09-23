@@ -1,0 +1,2 @@
+The back*.jpg files found in this folder are used on a Live system (LiveCD,LiveDvd,LiveUSB,frugal install)
+They are installed to the /live/boot-dev/boot/isolinux and /live/boot-dev/boot/syslinux folders. 

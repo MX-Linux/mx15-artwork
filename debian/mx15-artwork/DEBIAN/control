@@ -1,0 +1,8 @@
+Package: mx15-artwork
+Version: 1.0mx150+1
+Architecture: all
+Maintainer: Kent Mathern <maintainer@mepiscommunity.org>
+Installed-Size: 3976
+Section: unknown
+Priority: extra
+Description: Default wallpaper, grub and lightdm backgrounds for MX15
