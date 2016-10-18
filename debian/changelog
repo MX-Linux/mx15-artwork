@@ -1,3 +1,15 @@
+mx16-artwork (1.0mx150+1) mx; urgency=medium
+
+  * Initial Release. 
+
+ -- anticapitalista <antix@operamail.com>  Sun, 16 Oct 2016 16:08:58 +0300
+
+mx15-artwork (1.2mx150+1) mx; urgency=medium
+
+  * Add more wallpapers.
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Fri, 06 Nov 2015 13:30:43 -0800
+
 mx15-artwork (1.1mx150+1) mx; urgency=low
 
   * Included new wallpaper to extras.
