@@ -1,10 +1,3 @@
-Additional_wallpapers/cocoon_butterfly-logo.jpg		usr/local/share/backgrounds/MX16/wallpaper
-Additional_wallpapers/Fall-logo.jpg			usr/local/share/backgrounds/MX16/wallpaper
-Additional_wallpapers/metro-station-logo.jpg 		usr/local/share/backgrounds/MX16/wallpaper
-Additional_wallpapers/songdo-incheon-logo.jpg   	usr/local/share/backgrounds/MX16/wallpaper
-Additional_wallpapers/beach-rocks-resco-of-1812-1900x1200-logo.png 	usr/local/share/backgrounds/MX16/wallpaper
-Additional_wallpapers/wallpaper_credits_MX16.txt 	usr/local/share/backgrounds/MX16/wallpaper
-Live_bootloader/back640.jpg			usr/local/share/backgrounds/MX16/syslinux
-Live_bootloader/back800.jpg			usr/local/share/backgrounds/MX16/syslinux
-Live_bootloader/back1024.jpg			usr/local/share/backgrounds/MX16/syslinux
-Live_bootloader/README				usr/local/share/backgrounds/MX16/syslinux
+Additional_wallpapers/* 	usr/local/share/backgrounds/MX16/wallpaper
+Live_bootloader/*		usr/local/share/backgrounds/MX16/syslinux
+

@@ -1,3 +1,10 @@
+mx16-artwork (1.0mx150+2) mx; urgency=medium
+
+  * Corrected artwork -cocoon_butterfly-logo.jpg and beach-rocks-resco-of-1812-1900x1200-logo.png
+  * added grub, lightdm and syslinux images for all included wallpaper
+
+ -- anticapitalista <antix@operamail.com>  Wed, 30 Nov 2016 14:57:35 +0200
+
 mx16-artwork (1.0mx150+1) mx; urgency=medium
 
   * Initial Release. 
