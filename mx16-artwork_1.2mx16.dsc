@@ -10,9 +10,9 @@ Package-List:
  mx16-artwork deb xfce extra arch=all
  mx16-artwork-extras deb xfce extra arch=all
 Checksums-Sha1:
- 7bdb92d7cb4b37c9ede36a1cbfe42ca348c40987 26283100 mx16-artwork_1.2mx16.tar.xz
+ ec27b5fe09b9ea88719aae1eaae189ba1089c69e 26281248 mx16-artwork_1.2mx16.tar.xz
 Checksums-Sha256:
- 62963fbdac95bd04c269e0630981183c5d9ace01079f910212b1baaba201d16e 26283100 mx16-artwork_1.2mx16.tar.xz
+ 5d13e9898d96a0022fb3c76c84840f94b7aafacacb3cd309fac2fd0745ad3e70 26281248 mx16-artwork_1.2mx16.tar.xz
 Files:
- 9754654408105e70eb54eb249989742e 26283100 mx16-artwork_1.2mx16.tar.xz
+ 2b3e59d6da94e11f0fcf7949ae55a751 26281248 mx16-artwork_1.2mx16.tar.xz
 Original-Maintainer: Kent Mathern <maintainer@mepiscommunity.org>

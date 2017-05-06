@@ -16,18 +16,18 @@ Changes:
  .
    * test build with new mx16.1 wallpapers
 Checksums-Sha1:
- e165db042034c002b16db28a6ef8129ff9f7c651 703 mx16-artwork_1.2mx16.dsc
- 7bdb92d7cb4b37c9ede36a1cbfe42ca348c40987 26283100 mx16-artwork_1.2mx16.tar.xz
- d4cc5956e879ba24291a61f6aab9886f0809d419 13937352 mx16-artwork_1.2mx16_all.deb
- 19332544cfe0e535bdbb8a146a18a8143c6c9a7f 12371144 mx16-artwork-extras_1.2mx16_all.deb
+ e1f027adacb9e99df0d29310020c86d5dfda3f79 703 mx16-artwork_1.2mx16.dsc
+ ec27b5fe09b9ea88719aae1eaae189ba1089c69e 26281248 mx16-artwork_1.2mx16.tar.xz
+ 1f01e02dc7ff847b97f6161fc450b4b608404296 13938316 mx16-artwork_1.2mx16_all.deb
+ 6fff97574fbf28bf80ebf0d20d5fe97f10076147 12372786 mx16-artwork-extras_1.2mx16_all.deb
 Checksums-Sha256:
- dbe8645866eae304dab111346d314ce907d872722dbd3c2b1b3a9d25f5912ccd 703 mx16-artwork_1.2mx16.dsc
- 62963fbdac95bd04c269e0630981183c5d9ace01079f910212b1baaba201d16e 26283100 mx16-artwork_1.2mx16.tar.xz
- a3863473cf06394494685059ba0ce54ca8ad8f965ecf5f6ce2328c7864540440 13937352 mx16-artwork_1.2mx16_all.deb
- bb4a3d37817cb177bac8d15bededbf2af9a5d67cd037fede4510e2c1f6c67a69 12371144 mx16-artwork-extras_1.2mx16_all.deb
+ 4f5dcce30e2571a1022a3d643ad38d6e05acd0acc255b04b5594a718767fb021 703 mx16-artwork_1.2mx16.dsc
+ 5d13e9898d96a0022fb3c76c84840f94b7aafacacb3cd309fac2fd0745ad3e70 26281248 mx16-artwork_1.2mx16.tar.xz
+ b342da5712f1d32aced64e9778c30db40b102fa6329cdaf1632085c8ad7ff076 13938316 mx16-artwork_1.2mx16_all.deb
+ ccd9aafda30e91ca3c5af0a69dab889b1c92a634466414b3ea44bdfee2f1d6a0 12372786 mx16-artwork-extras_1.2mx16_all.deb
 Files:
- 2294d2b327b847b145e243f2ea95e5fa 703 xfce extra mx16-artwork_1.2mx16.dsc
- 9754654408105e70eb54eb249989742e 26283100 xfce extra mx16-artwork_1.2mx16.tar.xz
- 2d2c5ffd42be4359f11d208cf46a2c15 13937352 xfce extra mx16-artwork_1.2mx16_all.deb
- 78a7fa9591eb90d247a694b45551f7c5 12371144 xfce extra mx16-artwork-extras_1.2mx16_all.deb
+ 4c74979487d98ba1e553ab55b0d82636 703 xfce extra mx16-artwork_1.2mx16.dsc
+ 2b3e59d6da94e11f0fcf7949ae55a751 26281248 xfce extra mx16-artwork_1.2mx16.tar.xz
+ 4f208fac88032f4c4e1ae58883860723 13938316 xfce extra mx16-artwork_1.2mx16_all.deb
+ 91e68eea6e27d6018a404848bf31587d 12372786 xfce extra mx16-artwork-extras_1.2mx16_all.deb
 Original-Maintainer: Kent Mathern <maintainer@mepiscommunity.org>
