@@ -1,0 +1,9 @@
+Package: mx16-artwork
+Version: 1.2mx16
+Architecture: all
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Installed-Size: 13844
+Section: xfce
+Priority: extra
+Description: Default wallpaper, grub and lightdm backgrounds for MX16
+Original-Maintainer: Kent Mathern <maintainer@mepiscommunity.org>

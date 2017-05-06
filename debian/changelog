@@ -1,3 +1,9 @@
+mx16-artwork (1.2mx16) mx; urgency=medium
+
+  * test build with new mx16.1 wallpapers
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Sat, 06 May 2017 10:15:35 +0200
+
 mx16-artwork (1.0mx150+2) mx; urgency=medium
 
   * Corrected artwork -cocoon_butterfly-logo.jpg and beach-rocks-resco-of-1812-1900x1200-logo.png

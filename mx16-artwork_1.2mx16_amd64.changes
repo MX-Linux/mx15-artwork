@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sat, 06 May 2017 10:15:35 +0200
+Source: mx16-artwork
+Binary: mx16-artwork mx16-artwork-extras
+Architecture: source all
+Version: 1.2mx16
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphinoracle <dolphinoracle@gmail.com>
+Description:
+ mx16-artwork - Default wallpaper, grub and lightdm backgrounds for MX16
+ mx16-artwork-extras - Extra artwork for MX16, wallpapers and syslinux backgrounds
+Changes:
+ mx16-artwork (1.2mx16) mx; urgency=medium
+ .
+   * test build with new mx16.1 wallpapers
+Checksums-Sha1:
+ e165db042034c002b16db28a6ef8129ff9f7c651 703 mx16-artwork_1.2mx16.dsc
+ 7bdb92d7cb4b37c9ede36a1cbfe42ca348c40987 26283100 mx16-artwork_1.2mx16.tar.xz
+ d4cc5956e879ba24291a61f6aab9886f0809d419 13937352 mx16-artwork_1.2mx16_all.deb
+ 19332544cfe0e535bdbb8a146a18a8143c6c9a7f 12371144 mx16-artwork-extras_1.2mx16_all.deb
+Checksums-Sha256:
+ dbe8645866eae304dab111346d314ce907d872722dbd3c2b1b3a9d25f5912ccd 703 mx16-artwork_1.2mx16.dsc
+ 62963fbdac95bd04c269e0630981183c5d9ace01079f910212b1baaba201d16e 26283100 mx16-artwork_1.2mx16.tar.xz
+ a3863473cf06394494685059ba0ce54ca8ad8f965ecf5f6ce2328c7864540440 13937352 mx16-artwork_1.2mx16_all.deb
+ bb4a3d37817cb177bac8d15bededbf2af9a5d67cd037fede4510e2c1f6c67a69 12371144 mx16-artwork-extras_1.2mx16_all.deb
+Files:
+ 2294d2b327b847b145e243f2ea95e5fa 703 xfce extra mx16-artwork_1.2mx16.dsc
+ 9754654408105e70eb54eb249989742e 26283100 xfce extra mx16-artwork_1.2mx16.tar.xz
+ 2d2c5ffd42be4359f11d208cf46a2c15 13937352 xfce extra mx16-artwork_1.2mx16_all.deb
+ 78a7fa9591eb90d247a694b45551f7c5 12371144 xfce extra mx16-artwork-extras_1.2mx16_all.deb
+Original-Maintainer: Kent Mathern <maintainer@mepiscommunity.org>
