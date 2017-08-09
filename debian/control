@@ -1,4 +1,4 @@
-Source: mx16-artwork
+Source: mx15-artwork
 Section: xfce
 Priority: extra
 Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
@@ -6,14 +6,7 @@ XSBC-Original-Maintainer: Kent Mathern <maintainer@mepiscommunity.org>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 
-Package: mx16-artwork
+Package: mx15-artwork
 Architecture: all
 Depends: ${misc:Depends}
-Description: Default wallpaper, grub and lightdm backgrounds for MX16
- .
-
-Package: mx16-artwork-extras
-Architecture: all
-Depends: ${misc:Depends}
-Description: Extra artwork for MX16, wallpapers and syslinux backgrounds
- .
+Description: Default wallpaper, grub and lightdm backgrounds for MX15

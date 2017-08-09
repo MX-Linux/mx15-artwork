@@ -1,31 +1,5 @@
-mx16-artwork (1.0mx150+2) mx; urgency=medium
+mx15-artwork (2.0.0) mx; urgency=low
 
-  * Corrected artwork -cocoon_butterfly-logo.jpg and beach-rocks-resco-of-1812-1900x1200-logo.png
-  * added grub, lightdm and syslinux images for all included wallpaper
+  * new packages for mx17
 
- -- anticapitalista <antix@operamail.com>  Wed, 30 Nov 2016 14:57:35 +0200
-
-mx16-artwork (1.0mx150+1) mx; urgency=medium
-
-  * Initial Release. 
-
- -- anticapitalista <antix@operamail.com>  Sun, 16 Oct 2016 16:08:58 +0300
-
-mx15-artwork (1.2mx150+1) mx; urgency=medium
-
-  * Add more wallpapers.
-
- -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Fri, 06 Nov 2015 13:30:43 -0800
-
-mx15-artwork (1.1mx150+1) mx; urgency=low
-
-  * Included new wallpaper to extras.
-
- -- anticapitalista <antiX@operamail.com>  Sun, 01 Nov 2015 12:20:00 +0200
-
-
-mx15-artwork (1.0mx150+1) mx; urgency=low
-
-  * Initial Release.
-
- -- Kent Mathern <maintainer@mepiscommunity.org>  Wed, 23 Sep 2015 17:31:07 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 08 Aug 2017 20:00:07 -0400
