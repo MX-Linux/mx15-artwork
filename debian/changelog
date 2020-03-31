@@ -1,3 +1,15 @@
+mx15-artwork (2.0.2) mx; urgency=medium
+
+  * update control file 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 30 Mar 2020 22:24:13 -0400
+
+mx15-artwork (2.0.1) mx; urgency=medium
+
+  * update 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 26 May 2018 14:12:02 -0400
+
 mx15-artwork (2.0.0) mx; urgency=low
 
   * new packages for mx17
